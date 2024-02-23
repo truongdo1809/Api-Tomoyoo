@@ -51,7 +51,7 @@
       "type": "Giày Tây Nam",
       "priceSale": 1390000,
       "price": 2890000,
-      "img": "images/giay-tay-nam/product-5.webp",
+      "img": "images/giay-tay-nam/product-5.png",
       "imgHover": "images/giay-tay-nam/product-5.1.webp",
       "description1": "Giày Tây Nam Saddel Da Tomoyo TMN11603",
       "description2": "Sản phẩm được sản xuất theo công nghệ đóng giày thủ công Nhật Bản với quy trình kiểm soát chất lượng cực kỳ nghiêm ngặt. Sản phẩm có tính tiện dụng trong quá trình sử dụng hằng ngày nhưng vẫn đảm bảo tính lịch sự và sang trọng khi đi làm cũng như đi tiệc."
@@ -85,7 +85,7 @@
       "priceSale": 249000,
       "price": 310000,
       "img": "images/giay-tay-nam/product-8.webp",
-      "imgHover": "images/giay-tay-nam/product-8.1.webp",
+      "imgHover": "images/giay-tay-nam/product-8.1.png",
       "description1": "Giày Tây Nam Derby Tomoyo Vân Sóng TMN10701",
       "description2": "Sản phẩm được sản xuất theo công nghệ đóng giày thủ công Nhật Bản với quy trình kiểm soát chất lượng cực kỳ nghiêm ngặt. Sản phẩm có tính tiện dụng trong quá trình sử dụng hằng ngày nhưng vẫn đảm bảo tính lịch sự và sang trọng khi đi làm cũng như đi tiệc."
     },
@@ -227,8 +227,8 @@
       "type": "Giày Lười Nam",
       "priceSale": 890000,
       "price": 2890000,
-      "img": "images/giay-luoi-nam/product-21.webp",
-      "imgHover": "images/giay-luoi-nam/product-21.1.webp",
+      "img": "images/giay-luoi-nam/product-21.png",
+      "imgHover": "images/giay-luoi-nam/product-21.1.png",
       "description1": "Giày Lười Nam Tomoyo Penny Loafer Star TMN05503",
       "description2": "Sản phẩm được sản xuất theo công nghệ đóng giày thủ công Nhật Bản với quy trình kiểm soát chất lượng cực kỳ nghiêm ngặt. Sản phẩm có tính tiện dụng trong quá trình sử dụng hằng ngày nhưng vẫn đảm bảo tính lịch sự và sang trọng khi đi làm cũng như đi tiệc."
     },
@@ -257,22 +257,22 @@
     {
       "id": 24,
       "title": "Giày Lười Nam Da MicroFiber Tomoyo TMN05701",
-      "type": "Giày Búp Bê",
+      "type": "Giày Lười Nam",
       "priceSale": 890000,
       "price": 2890000,
-      "img": "images/giay-bup-be/product-24.webp",
-      "imgHover": "images/giay-bup-be/product-24.1.webp",
+      "img": "images/giay-luoi-nam/product-24.webp",
+      "imgHover": "images/giay-luoi-nam/product-24.1.webp",
       "description1": "Giày Lười Nam Da MicroFiber Tomoyo TMN05701",
       "description2": "Sản phẩm được sản xuất theo công nghệ đóng giày thủ công Nhật Bản với quy trình kiểm soát chất lượng cực kỳ nghiêm ngặt. Sản phẩm có tính tiện dụng trong quá trình sử dụng hằng ngày nhưng vẫn đảm bảo tính lịch sự và sang trọng khi đi làm cũng như đi tiệc."
     },
     {
       "id": 25,
       "title": "Giày Búp Bê Nữ Siêu Nhẹ Tomoyo TMW20407",
-      "type": "Giày Lười Nam",
+      "type": "Giày Búp Bê",
       "priceSale": 890000,
       "price": 2890000,
-      "img": "images/giay-luoi-nam/product-25.webp",
-      "imgHover": "images/giay-luoi-nam/product-25.1.webp",
+      "img": "images/giay-bup-be/product-25.webp",
+      "imgHover": "images/giay-bup-be/product-25.1.webp",
       "description1": "Giày Búp Bê Nữ Siêu Nhẹ Tomoyo TMW20407",
       "description2": "Sản phẩm được sản xuất theo công nghệ đóng giày thủ công Nhật Bản với quy trình kiểm soát chất lượng cực kỳ nghiêm ngặt. Thiết kế đơn giản, giảm hôi chân 1 cách hiệu quả nhất, luôn tạo cảm giác thoải mái cho người mang."
     },
