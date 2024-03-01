@@ -11,11 +11,11 @@
       "description1": "Giày Tây Nam Tomoyo Oxford Đen Bóng TMN11501",
       "description2": "Sản phẩm được sản xuất theo công nghệ đóng giày thủ công Nhật Bản với quy trình kiểm soát chất lượng cực kỳ nghiêm ngặt, Giày Tây Nam Tomoyo sang trọng, lịch lãm nhưng vẫn đảm bảo được sự thoải mái khi sử dụng hằng ngày, rất êm chân, form giày ôm bảo vệ chân tốt.",
       "slider": [
-        "/slider./images/slider-1.webp",
-        "/slider./images/slider-1.1.webp",
-        "/slider./images/slider-1.2.webp",
-        "/slider./images/slider-1.3.webp",
-        "/slider./images/slider-1.4.webp"
+        "slider./images/slider-1.webp",
+        "slider./images/slider-1.1.webp",
+        "slider./images/slider-1.2.webp",
+        "slider./images/slider-1.3.webp",
+        "slider./images/slider-1.4.webp"
       ]
     },
     {
